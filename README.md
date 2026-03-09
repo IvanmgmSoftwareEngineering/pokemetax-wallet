@@ -118,6 +118,7 @@ PokéMetaX is a self-custodial, browser-based crypto wallet supporting **Bitcoin
 
 MIT © PokéMetaX
 Treasure Public Address: [`0x2922602753C2bBf95C23944b0EbDc320e94c2AF9`](https://polygonscan.com/address/0x2922602753C2bBf95C23944b0EbDc320e94c2AF9)
+contact@pokemetax.xyz
 
 ---
 
