@@ -1,0 +1,7 @@
+• Edit ONLY the 2 variables at the top of the script: your .txt file name and your password.
+• The script and the .txt file must be in the same folder.
+• The script auto-detects whether the file contains a single wallet (mono-wallet), multiple wallets (multi-wallet), or legacy format.
+• Node.js comes preinstalled on macOS and most Linux distributions. On Windows, download from nodejs.org.
+• For Python, install the dependency: pip install cryptography
+• The 100,000 PBKDF2 iterations make key derivation take ~1 second, which is intentional to protect against brute-force attacks.
+• After decrypting, DELETE the script so your password is not left in plain text.
