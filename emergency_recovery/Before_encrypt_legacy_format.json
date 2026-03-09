@@ -1,0 +1,8 @@
+{
+  "networkId": "ethereum",
+  "address": "0x1234...abcd",
+  "mnemonic": "word1 word2 ... word12",
+  "privateKey": "0xabc123...",
+  "alias": "My Wallet",
+  "exportedAt": "2026-03-09T12:00:00.000Z"
+}
