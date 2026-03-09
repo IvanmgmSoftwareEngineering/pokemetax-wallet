@@ -1,0 +1,28 @@
+{
+  "format": "multi-wallet",
+  "version": "1.0",
+  "exportedAt": "2026-03-09T12:00:00.000Z",
+  "walletCount": 3,
+  "wallets": [
+    {
+      "networkId": "ethereum",
+      "address": "0x1234...abcd",
+      "alias": "ETH Wallet",
+      "mnemonic": "word1 word2 ... word12",
+      "privateKey": "0xabc123..."
+    },
+    {
+      "networkId": "polygon",
+      "address": "0x5678...efgh",
+      "alias": "Polygon Wallet",
+      "privateKey": "0xdef456..."
+    },
+    {
+      "networkId": "arbitrum",
+      "address": "0x9abc...ijkl",
+      "alias": "Arbitrum Wallet",
+      "mnemonic": "other1 other2 ... other12",
+      "privateKey": "0xghi789..."
+    }
+  ]
+}
