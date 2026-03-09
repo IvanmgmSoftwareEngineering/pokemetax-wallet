@@ -1,0 +1,12 @@
+{
+  "format": "mono-wallet",
+  "version": "1.0",
+  "exportedAt": "2026-03-09T12:00:00.000Z",
+  "wallet": {
+    "networkId": "ethereum",
+    "address": "0x1234...abcd",
+    "alias": "My Wallet",
+    "mnemonic": "word1 word2 ... word12",
+    "privateKey": "0xabc123..."
+  }
+}
