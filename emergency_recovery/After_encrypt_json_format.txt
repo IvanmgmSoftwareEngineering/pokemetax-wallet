@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "algorithm": "AES-256-GCM",
+  "salt": "a1b2c3d4...  (64 hex chars = 32 bytes)",
+  "iv": "e5f6a7b8...  (24 hex chars = 12 bytes)",
+  "data": "encrypted_hex_data...",
+  "checksum": "abc123def456ab78"
+}
