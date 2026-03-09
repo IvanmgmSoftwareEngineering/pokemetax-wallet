@@ -1,0 +1,28 @@
+#1. A random 32-byte salt is generated:
+salt = crypto.getRandomValues(new Uint8Array(32))
+# Example output: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#2. A random 12-byte IV (initialization vector) is generated:
+iv = crypto.getRandomValues(new Uint8Array(12))
+# Example output: a1b2c3d4e5f6a7b8c9d0e1f2
+
+#3. The encryption key is derived from your password using PBKDF2:
+key = PBKDF2(password, salt, iterations=100000, keyLength=32, hash="SHA-256")
+
+##• Algorithm: PBKDF2
+##• Iterations: 100,000 (brute-force protection — each attempt takes ~1 second)
+##• Hash: SHA-256
+##• Salt: generated in step 1
+##• Resulting key length: 256 bits (32 bytes)
+
+#4. The JSON is encrypted with AES-256-GCM:
+encrypted = AES-256-GCM.encrypt(plaintext_json, key, iv)
+# Result includes ciphertext + auth tag (16 bytes appended at the end)
+
+#5. A SHA-256 checksum of the original plaintext is computed:
+checksum = SHA-256(plaintext_json).substring(0, 16)
+# Example: "abc123def456ab78" (first 16 hex characters)
+
+#6. Everything is packaged into a JSON and saved as a .txt file:
+{ version: 1, algorithm: "AES-256-GCM", salt: hex(salt), iv: hex(iv), data: hex(encrypted), checksum: checksum }
+
