@@ -4,8 +4,6 @@
 
 # ℙ𝕠𝕜𝕖𝕄𝕖𝕥𝕒𝕏.𝕚𝕠
 
-Your ePassword Your Cryptos
-
 **𝚈𝚘𝚞𝚛 𝚎𝙿𝚊𝚜𝚜𝚠𝚘𝚛𝚍 𝚈𝚘𝚞𝚛 𝙲𝚛𝚢𝚙𝚝𝚘𝚜**
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)](https://react.dev/)
@@ -32,33 +30,21 @@ We are the only self-custody wallet in the world that enables scheduled payments
 
 Your wallet encrypted with military-grade security (AES-256-GCM) travels with you. Access it from anywhere in the world, at any time (24/7), just by accessing your email. No servers, no databases, no intermediaries.
 
-### 🌐 Two Usage Modes
-
-| | Mode | Description |
-|---|------|-------------|
-| 🌍 | **Web Mode** | Access from any browser worldwide. Compatible with Chrome, Firefox, Brave, Safari, Edge and more. No installation required. |
-| 🧩 | **Extension Mode** | Extension for Chromium browsers in sidebar format. Integrated Web3 navigation assistance without leaving your favorite dApps. |
-
-### 🔒 Maximum Security: No Databases
-
-We proudly do **NOT** use databases to store your information. Your private keys and seed phrases **NEVER** leave your device. Everything is encrypted locally with AES-256-GCM. You are the sole custodian of your assets.
-
 ---
 
 ## Overview
 
-PokéMetaX is a self-custodial, browser-based crypto wallet supporting **Bitcoin, Ethereum, Solana, and all major EVM chains**. Built entirely client-side with no server storing your keys — encrypted wallets live on your device only.
+PokéMetaX is a non-custodial, browser-based crypto wallet supporting **Bitcoin, Ethereum, Solana, and all major EVM chains**. Built entirely client-side with no server storing your keys — encrypted wallets live on your device only.
 
 ---
 
 ## Features
 
 ### 🔐 Wallet Management
-- Create or import wallets via **seed phrase**, **private key**, or **encrypted `.txt` file**
-- AES-256-GCM encryption (PBKDF2, 100K iterations) for all stored wallet data
+- Create or import wallets via **seed phrase**, **private key**, or **encrypted `.wallet` file**
 - Multi-account support with aliases, pinning, and balance sorting
 - Global lock / master password system
-- Export wallet as encrypted `.txt` backup file with custom alias
+- Export wallet as encrypted `.wallet` backup file with custom alias
 - Cloud backup to IPFS (encrypted before upload)
 
 ### 🌐 Multi-Chain Support
@@ -103,8 +89,6 @@ PokéMetaX is a self-custodial, browser-based crypto wallet supporting **Bitcoin
 
 ---
 
----
-
 ## Security
 
 - ✅ All private keys are encrypted with AES-256-GCM **before** being stored locally
@@ -118,7 +102,7 @@ PokéMetaX is a self-custodial, browser-based crypto wallet supporting **Bitcoin
 
 ## License
 
-MIT © PokéMetaX
+MIT © PokéMetaX,io
 Treasure Public Address: [`0x2922602753C2bBf95C23944b0EbDc320e94c2AF9`](https://polygonscan.com/address/0x2922602753C2bBf95C23944b0EbDc320e94c2AF9)
 contact@pokemetax.io
 
