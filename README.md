@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="pokemetax-logo.png" alt="PokéMetaX Logo" width="120" />
+<img src="pokebit-logo-original.png" alt="PokéMetaX Logo" width="120" />
 
 # ℙ𝕠𝕜𝕖𝕄𝕖𝕥𝕒𝕏
 
@@ -12,7 +12,7 @@
 [![Polygon](https://img.shields.io/badge/Deployed%20on-Polygon-8247E5?logo=polygon)](https://polygon.technology/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[Live App](https://pokemetax.xyz) · [How It Works](https://pokemetax.xyz/how-it-works) · [Privacy Policy](https://pokemetax.xyz/privacy)
+[Live App](https://pokemetax.io) · [How It Works](https://pokemetax.io/how-it-works) · [Privacy Policy](https://pokemetax.xyz/privacy)
 
 </div>
 
@@ -118,10 +118,10 @@ PokéMetaX is a self-custodial, browser-based crypto wallet supporting **Bitcoin
 
 MIT © PokéMetaX
 Treasure Public Address: [`0x2922602753C2bBf95C23944b0EbDc320e94c2AF9`](https://polygonscan.com/address/0x2922602753C2bBf95C23944b0EbDc320e94c2AF9)
-contact@pokemetax.xyz
+contact@pokemetax.io
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ on Polygon · Self-custodial forever</sub>
+  <sub>Built with ❤️ on Polygon · Non-custodial Wallet · Your ePassword Your Cryptos</sub>
 </div>
