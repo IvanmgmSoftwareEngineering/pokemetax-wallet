@@ -2,9 +2,11 @@
 
 <img src="pokebit-logo-original.png" alt="PokéMetaX Logo" width="120" />
 
-# ℙ𝕠𝕜𝕖𝕄𝕖𝕥𝕒𝕏
+# ℙ𝕠𝕜𝕖𝕄𝕖𝕥𝕒𝕏.𝕚𝕠
 
-**All-in-one multi-chain crypto wallet with on-chain smart contracts on Polygon**
+Your ePassword Your Cryptos
+
+**𝚈𝚘𝚞𝚛 𝚎𝙿𝚊𝚜𝚜𝚠𝚘𝚛𝚍 𝚈𝚘𝚞𝚛 𝙲𝚛𝚢𝚙𝚝𝚘𝚜**
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)](https://www.typescriptlang.org/)
