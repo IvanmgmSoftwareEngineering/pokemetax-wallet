@@ -4,7 +4,7 @@
 
 # ℙ𝕠𝕜𝕖𝕄𝕖𝕥𝕒𝕏.𝕚𝕠
 
-**𝚈𝚘𝚞𝚛 𝚎𝙿𝚊𝚜𝚜𝚠𝚘𝚛𝚍 𝚈𝚘𝚞𝚛 𝙲𝚛𝚢𝚙𝚝𝚘𝚜**
+**𝚈𝚘𝚞𝚛 𝚎𝙿𝚊𝚜𝚜𝚠𝚘𝚛𝚍 𝚈𝚘𝚞𝚛 𝚆𝚊𝚕𝚕𝚎𝚝** 
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)](https://www.typescriptlang.org/)
@@ -109,5 +109,5 @@ contact@pokemetax.io
 ---
 
 <div align="center">
-  <sub>Built with ❤️ on Polygon · Non-custodial Wallet · Your ePassword Your Cryptos</sub>
+  <sub>Built with ❤️ on Polygon · Non-custodial Wallet · Your ePassword Your Wallet</sub>
 </div>
