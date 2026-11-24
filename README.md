@@ -53,11 +53,9 @@ PokéMetaX is a non-custodial, browser-based crypto wallet supporting **Bitcoin,
 ## Features
 
 ### 🔐 Wallet Management
-- Create or import wallets via **seed phrase**, **private key**, or **encrypted `.wallet` file**
-- Multi-account support with aliases, pinning, and balance sorting
-- Global lock / master password system
-- Export wallet as encrypted `.wallet` backup file with custom alias
-- Cloud backup to IPFS (encrypted before upload)
+- Create or import wallets via **seed phrase**, **private key**, or **ePassword (New)**
+- Multi-account support with aliases, pinning, and balance sorting.
+- Cloud backup to IPFS and on-Chain (your wallets always available and descentralizated)
 
 ### 🌐 Multi-Chain Support
 | Network | Type | Symbol |
