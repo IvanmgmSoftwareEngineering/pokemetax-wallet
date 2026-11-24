@@ -103,7 +103,7 @@ PokéMetaX is a non-custodial, browser-based crypto wallet supporting **Bitcoin,
 
 ## Security
 
-- ✅ All private keys are encrypted with AES-256-GCM **before** being stored locally
+- ✅ All private keys are encrypted with AES-256-GCM **before** being stored on-chain and IPFS
 - ✅ PBKDF2 key derivation with 100,000 iterations
 - ✅ Master password never leaves the device
 - ✅ No telemetry, no server-side key storage
@@ -114,8 +114,10 @@ PokéMetaX is a non-custodial, browser-based crypto wallet supporting **Bitcoin,
 
 ## License
 
-MIT © PokéMetaX.io
-❤️ Donations Public Address: [`0x2922602753C2bBf95C23944b0EbDc320e94c2AF9`](https://polygonscan.com/address/0x2922602753C2bBf95C23944b0EbDc320e94c2AF9)
+MIT © PokeMetaX.io
+❤️ 
+
+Donations Public Address: [`0x2922602753C2bBf95C23944b0EbDc320e94c2AF9`](https://polygonscan.com/address/0x2922602753C2bBf95C23944b0EbDc320e94c2AF9)
 
 contact@pokemetax.io
 
