@@ -113,9 +113,8 @@ PokéMetaX is a non-custodial, browser-based crypto wallet supporting **Bitcoin,
 ## License
 
 MIT © PokeMetaX.io
-❤️ 
 
-Donations Public Address: [`0x2922602753C2bBf95C23944b0EbDc320e94c2AF9`](https://polygonscan.com/address/0x2922602753C2bBf95C23944b0EbDc320e94c2AF9)
+❤️ Donations: [`0x2922602753C2bBf95C23944b0EbDc320e94c2AF9`](https://polygonscan.com/address/0x2922602753C2bBf95C23944b0EbDc320e94c2AF9)
 
 contact@pokemetax.io
 
