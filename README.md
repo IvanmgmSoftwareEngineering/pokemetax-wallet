@@ -18,7 +18,10 @@
 
 ---
 
-> **The most secure self-custody wallet for scheduled payments** — no smart wallets, no approvals, no keepers. *Create, Deposit, wait, claim.*
+> **Self-custody wallet**
+No paper with key words easy to lose, no delegate custody third parts, all your wallets protected and available with a unique ePassword
+*Your ePassword Your Wallets*
+
 
 ---
 
@@ -28,7 +31,7 @@ We are the only self-custody wallet in the world that enables scheduled payments
 
 ### 🔐 Secure Backup with Total Availability
 
-Your wallet encrypted with military-grade security (AES-256-GCM) travels with you. Access it from anywhere in the world, at any time (24/7), just by accessing your email. No servers, no databases, no intermediaries.
+Your wallet encrypted on-chain with military-grade security (AES-256-GCM) travels with you. Access it from anywhere in the world, at any time (24/7), just by using your ePassword. Using IPFS and Polygon chain your encrypted wallet always available and secure.
 
 ---
 
