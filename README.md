@@ -20,16 +20,15 @@
 
 > 
 
-No paper with key words easy to lose
+- 𝓝𝓸 𝓹𝓪𝓹𝓮𝓻 𝔀𝓲𝓽𝓱 𝓴𝓮𝔂 𝔀𝓸𝓻𝓭𝓼 𝓮𝓪𝓼𝔂 𝓽𝓸 𝓵𝓸𝓼𝓮
 
-No difficult Apps or Extensions to install
+- 𝓝𝓸 𝓭𝓲𝓯𝓯𝓲𝓬𝓾𝓵𝓽 𝓐𝓹𝓹𝓼 𝓸𝓻 𝓔𝔁𝓽𝓮𝓷𝓼𝓲𝓸𝓷𝓼 𝓽𝓸 𝓲𝓷𝓼𝓽𝓪𝓵𝓵
 
-No delegate custody third parts, 
+- 𝓝𝓸 𝓭𝓮𝓵𝓮𝓰𝓪𝓽𝓮 𝓬𝓾𝓼𝓽𝓸𝓭𝔂 𝓽𝓱𝓲𝓻𝓭 𝓹𝓪𝓻𝓽𝓼, 
 
-All your wallets protected and available with a unique ePassword
+- 𝓐𝓵𝓵 𝔂𝓸𝓾𝓻 𝔀𝓪𝓵𝓵𝓮𝓽𝓼 𝓹𝓻𝓸𝓽𝓮𝓬𝓽𝓮𝓭 𝓪𝓷𝓭 𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮 𝔀𝓲𝓽𝓱 𝓪 𝓾𝓷𝓲𝓺𝓾𝓮 𝓮𝓟𝓪𝓼𝓼𝔀𝓸𝓻𝓭
 
-Only you need is a device with internet connection, browser and remember your ePassword.
-
+- 𝓞𝓷𝓵𝔂 𝔂𝓸𝓾 𝓷𝓮𝓮𝓭 𝓲𝓼 𝓪 𝓭𝓮𝓿𝓲𝓬𝓮 𝔀𝓲𝓽𝓱 𝓲𝓷𝓽𝓮𝓻𝓷𝓮𝓽 𝓬𝓸𝓷𝓷𝓮𝓬𝓽𝓲𝓸𝓷, 𝓫𝓻𝓸𝔀𝓼𝓮𝓻 𝓪𝓷𝓭 𝓻𝓮𝓶𝓮𝓶𝓫𝓮𝓻 𝔂𝓸𝓾𝓻 𝓮𝓟𝓪𝓼𝓼𝔀𝓸𝓻𝓭.
 
 
 
@@ -115,12 +114,13 @@ PokéMetaX is a non-custodial, browser-based crypto wallet supporting **Bitcoin,
 
 ## License
 
-MIT © PokéMetaX,io
-Treasure Public Address: [`0x2922602753C2bBf95C23944b0EbDc320e94c2AF9`](https://polygonscan.com/address/0x2922602753C2bBf95C23944b0EbDc320e94c2AF9)
+MIT © PokéMetaX.io
+❤️ Donations Public Address: [`0x2922602753C2bBf95C23944b0EbDc320e94c2AF9`](https://polygonscan.com/address/0x2922602753C2bBf95C23944b0EbDc320e94c2AF9)
+
 contact@pokemetax.io
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ on Polygon · Non-custodial Wallet · Your ePassword Your Wallet</sub>
+  <sub> ℙ𝕠𝕜𝕖𝕄𝕖𝕥𝕒𝕏.𝕚𝕠 · Your ePassword Your WalletS</sub>
 </div>
