@@ -101,7 +101,6 @@ PokéMetaX is a non-custodial, browser-based crypto wallet supporting **Bitcoin,
 
 ## Security
 
-- ✅ All private keys are encrypted with AES-256-GCM **before** being stored on-chain and IPFS
 - ✅ PBKDF2 key derivation with 100,000 iterations
 - ✅ Master password never leaves the device
 - ✅ No telemetry, no server-side key storage
