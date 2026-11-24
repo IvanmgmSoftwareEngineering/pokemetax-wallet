@@ -18,7 +18,7 @@
 
 ---
 
-> **
+> 
 
 No paper with key words easy to lose
 
@@ -30,7 +30,7 @@ All your wallets protected and available with a unique ePassword
 
 Only you need is a device with internet connection, browser and remember your ePassword.
 
-**
+
 
 
 ---
