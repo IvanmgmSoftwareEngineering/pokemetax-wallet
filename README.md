@@ -4,7 +4,7 @@
 
 # ℙ𝕠𝕜𝕖𝕄𝕖𝕥𝕒𝕏.𝕚𝕠
 
-**𝚈𝚘𝚞𝚛 𝚎𝙿𝚊𝚜𝚜𝚠𝚘𝚛𝚍 𝚈𝚘𝚞𝚛 𝚆𝚊𝚕𝚕𝚎𝚝** 
+**𝚈𝚘𝚞𝚛 𝚎𝙿𝚊𝚜𝚜𝚠𝚘𝚛𝚍 𝚈𝚘𝚞𝚛 𝚆𝚊𝚕𝚕𝚎𝚝S** 
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)](https://www.typescriptlang.org/)
@@ -18,9 +18,19 @@
 
 ---
 
-> **Self-custody wallet**
-No paper with key words easy to lose, no delegate custody third parts, all your wallets protected and available with a unique ePassword
-*Your ePassword Your Wallets*
+> **
+
+No paper with key words easy to lose
+
+No difficult Apps or Extensions to install
+
+No delegate custody third parts, 
+
+All your wallets protected and available with a unique ePassword
+
+Only you need is a device with internet connection, browser and remember your ePassword.
+
+**
 
 
 ---
@@ -37,7 +47,7 @@ Your wallet encrypted on-chain with military-grade security (AES-256-GCM) travel
 
 ## Overview
 
-PokéMetaX is a non-custodial, browser-based crypto wallet supporting **Bitcoin, Ethereum, Solana, and all major EVM chains**. Built entirely client-side with no server storing your keys — encrypted wallets live on your device only.
+PokéMetaX is a non-custodial, browser-based crypto wallet supporting **Bitcoin, Ethereum, Solana, and all major EVM chains**. Built entirely client-side with no server storing your keys — encrypted wallets live only on-chain and IPFS.
 
 ---
 
